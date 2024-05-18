@@ -1,4 +1,6 @@
 # 🚀 **Automating Push-Up Counting with Pose Detection** 🚀
+![push-ups](https://github.com/Manish7272/Pushups_Counter/assets/71213166/a9f09565-a0d2-4411-af68-681ca1c3662c)
+
 
 I'm excited to share a recent project where I combined my love for fitness with my technical skills in computer vision and pose estimation to create an automated push-up counter using Python! 💪
 
@@ -24,6 +26,9 @@ My goal extends beyond just counting push-ups. I aim to develop a comprehensive 
 3. **Performance Tracking**: Add features to track and display progress over time, providing valuable insights and motivation. This could include charts, graphs, and personalized workout plans.
 4. **Mobile Integration**: Develop a mobile app to make the push-up counter accessible on-the-go, using the phone's camera for pose detection. This would increase accessibility and convenience for users.
 5. **AI & ML**: Use machine learning algorithms to personalize workout plans based on the user's performance and goals. By analyzing user data, the system can recommend exercises and intensity levels tailored to individual needs.
+
+
+<br>
 
 <br>
 
